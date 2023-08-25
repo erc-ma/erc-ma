@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @erc-ma
-- 👀 I’m interested in cs, music, and language
-- 🌱 I’m a CS-Econ major @BrownU '25 
-- 📫 eric_ma@brown.edu
+- 🌱 Pursuing a joint ScB-ScM in Computer Science and Economics at Brown U '25
+- I've done a lot of full-stack web dev using tools like React and NodeJS.
+- Recently began exploring topics in back-end development like Microsoft Azure's serverless and SQL 
