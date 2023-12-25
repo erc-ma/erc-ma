@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @erc-ma
-- Pursuing a joint ScB-ScM in Computer Science and Economics at Brown U '25
-- I've done a lot of full-stack web dev using tools like React and NodeJS.
+- Junior year concurrent Bachelor’s & Master’s student with a focus on Artificial Intelligence and Machine Learning (ML). Former Software Developer Intern at Dash
